@@ -1,1 +1,2 @@
-First line in file1.txt
+This line is added by dev b
+dev b changed this file
